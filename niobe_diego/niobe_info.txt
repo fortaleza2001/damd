@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Nombre y Apellidos: Níobe Clavería
 Dirección de correo electrónico: niobeclaveria.val@gmail.com
 Equipo favorito: Real Zaragoza
 
+=======
+Nombre y Apellidos: Níobe Clavería
+Dirección de correo electrónico: niobeclaveria.val@gmail.com
+Equipo favorito: Real Zaragoza
+
+>>>>>>> 0125dc81f5258f73b589c6c9bae6d682ac254d0b
