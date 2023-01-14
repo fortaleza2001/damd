@@ -13,8 +13,6 @@ David Ken
 Niobe Claveria
 Oussama Belhadj Benziane
 Elena Jiménez
-<<<<<<< HEAD
 Lucas Colban
-=======
 Raúl Gutierrez Torres
->>>>>>> 74574884da6d0c12c2b0d5dbcbe20bfc88f3cdd0
+
